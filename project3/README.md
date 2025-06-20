@@ -26,7 +26,3 @@ This project upgrades neural network models to convolutional neural networks (CN
 
 ## How to Run
 CIFAR-10 is automatically downloaded via `torchvision`. Run each notebook in Jupyter. Use lower epochs for testing.
-
-## Note
-Do **not** include local CIFAR-10 `.tar.gz` files in the repo — they are large and unnecessary. The code downloads data on its own.
-
